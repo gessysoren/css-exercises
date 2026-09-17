@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+p {
+  background-color: rgb(rgb(243, 26, 91));
+  font-family: Verdana sans-serif;
+}
+
+div{  
+  color: rgb(rgb(0, 110, 255));
+  font-size: 36px;
+}
+p {
+  background-color: rgb(rgb(243, 26, 91));
+  font-family: Verdana sans-serif;
+  font-size: 24px;
+}
+
+div{
+   background-color: rgb(rgb(150, 255, 137));
+   font-size: 24px;
+   font-weight: bold;
+}
+
+p {
+  background-color: rgb(rgb(243, 26, 91));
+  font-family: Verdana sans-serif;
+}
