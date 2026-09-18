@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.first,
+.second {
+ font-size: 28px;    
+}
+
+.first {
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
+
+
+
+
+
+
